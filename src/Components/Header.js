@@ -6,6 +6,7 @@ const Header = () => {
   return (
     <div className={styles.header}>
       <nav className="container">
+        <Text>hehe</Text>
         <Link to="/">Home</Link>
         <Link to="/Login">Login / Criar</Link>
       </nav>
